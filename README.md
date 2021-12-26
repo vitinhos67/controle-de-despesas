@@ -59,3 +59,4 @@ console.log(squareNumbers) // [1, 4 ,9]
 
 Exercicio pratico acompanhado pelo canal do Roger Melo
 <p>link:https://www.youtube.com/watch?v=xarRciYWT5Q <p>
+   
